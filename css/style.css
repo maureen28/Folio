@@ -1,3 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: bold;
+}
+
 span,
 a {
     color: #A0522D;
@@ -147,3 +154,6 @@ h6 {
     transform: rotateY(180deg);
 }
 /* End of flip cards */
+
+
+
